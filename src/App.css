@@ -1,0 +1,47 @@
+.home {
+  flex-wrap: wrap;
+grid-gap: 10px;
+top: 0px;
+padding: 5vw;
+background-color: #FFB6C1;
+font-family: 'Permanent Marker', cursive;
+font-size: 2vw;
+}
+
+
+.new-gig {
+  border-color: black;
+}
+
+.gig-list {
+  /* border-top-left-radius: 10%;
+  border-bottom-right-radius: 10%; */
+  padding: 40px;
+  font-size: 1vw;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+  background-color: white;
+  margin: 15px;
+  opacity: 1;
+}
+
+.gig {
+  justify-content: center;
+ margin: 10px;
+ margin-top: 0px;
+ margin-bottom: 20px;
+ padding: 30px;
+ /* border-top-right-radius: 25%;
+ border-bottom-left-radius: 25%; */
+ background-color: #A24857;
+ oapcity: 50%;
+ text-align: center;
+
+}
+
+.submit {
+  border-radius: 35%;
+  padding: 10px;
+  background-color: #FFB6C1;
+  color: rgb(240, 234, 210);
+  }
